@@ -1,4 +1,4 @@
-package com.gentech.Excel;
+package com.gentech.excel;
 
 import java.io.FileInputStream;
 
